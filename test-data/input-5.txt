@@ -1,0 +1,4 @@
+# hibás inputok megadása
+asd
+GT4500,a
+GT4500,a,1,0,1

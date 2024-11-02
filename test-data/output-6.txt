@@ -1,0 +1,5 @@
+# 6. teszt
+No ship has been initialized
+SUCCESS
+Unknown firing mode: 'A'
+usage: TORPEDO,<SINGLE|ALL>

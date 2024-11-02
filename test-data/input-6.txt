@@ -1,0 +1,5 @@
+# hibás TORPEDO commands
+TORPEDO,a
+GT4500,10,0,10,0
+TORPEDO,A
+TORPEDO,
