@@ -1,0 +1,4 @@
+# második teszt kezdete
+SUCCESS  # <- GT4500
+FAIL  # <- TORPEDO
+FAIL  # <- TORPEDO

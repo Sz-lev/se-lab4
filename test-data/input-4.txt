@@ -1,0 +1,4 @@
+# ha hiba van nem lehet tüzelni
+GT4500,10,1,10,1
+TORPEDO,ALL
+TORPEDO,SINGLE

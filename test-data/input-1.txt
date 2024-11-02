@@ -1,0 +1,8 @@
+# 1. Lehet egyszerre tüzelni 5x majd a 6. hibás
+GT4500,5,0,5,0
+TORPEDO,ALL
+TORPEDO,ALL
+TORPEDO,ALL
+TORPEDO,ALL
+TORPEDO,ALL
+TORPEDO,ALL
